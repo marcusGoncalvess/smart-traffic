@@ -10,10 +10,6 @@ O traffic sense é um sistema de controle de semáforos inteligentes projetado p
 - Melhora a segurança nas interseções e reduz o congestionamento.
 - Facilmente personalizável e expansível para diferentes cenários de tráfego.
 
-## Contribuições 🤝
-
-Contribuições para este projeto são bem-vindas! Se você é um desenvolvedor, engenheiro ou entusiasta de tráfego, junte-se a nós para tornar as interseções urbanas mais inteligentes e amigáveis ao tráfego. Siga as diretrizes de contribuição no arquivo CONTRIBUTING.md para começar.
-
 ## Como Começar 🚀
 
 Para começar a utilizar o SmartTrafficControl em seu próprio projeto, siga estas etapas:
